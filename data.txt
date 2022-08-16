@@ -1,0 +1,4 @@
+1;Đỗ Quang Huynh;188;73
+2;Hoàng Quốc Huy;168;55
+3;Hà Văn Huy;180;80
+4;Nguyễn Tân Long;170;70
